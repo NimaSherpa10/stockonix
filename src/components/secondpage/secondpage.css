@@ -1,0 +1,110 @@
+.card1 {
+	width: 400px;
+	height: 400px;
+	padding: 20px;
+	color: hsla(130, 21%, 89%, 0.867);
+	background: radial-gradient(91.71% 118.06% at 2.29% 3.32%, #13131466 0%, #153569 53.27%, #1d211f44 100%);
+	box-shadow: 0px 4px 4px rgba(3, 3, 3, 0.583);
+	border-radius: 15px;
+	float: left;
+	margin: 5% 2% 3% 7%;
+  }
+  
+  .card3 {
+	width: 550px;
+	height: 400px;
+	padding: 20px;
+	color: hsla(130, 21%, 89%, 0.867);
+	background: radial-gradient(91.71% 118.06% at 2.29% 3.32%, #13131466 0%, #153569 53.27%, #1d211f44 100%);
+	box-shadow: 0px 4px 4px rgba(3, 3, 3, 0.583);
+	border-radius: 15px;
+	overflow: hidden;
+	margin: 5% 0 2% 0;
+	display :inline-block;
+	word-wrap: break-word;
+	
+  }
+  
+  .chart {
+	width: 500px;
+	min-height: 200px;
+	height: 250px;
+	margin-left:15% ;
+  }
+  
+  #symbol {
+	font-size: 60px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #8bfb9c;
+	margin: 0px;
+	font-weight: bold;
+	overflow: hidden;
+  }
+  
+  #title {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #61f978;
+	margin: 0px;
+	font-weight: bold;
+  }
+  
+  .tradingview-widget-container{
+	width: 200%;
+	height:300%;
+  }
+ 
+
+#desc {
+	overflow: hidden;
+	width: 0;
+  	animation: typing;
+  	animation-duration: 3s;
+  	animation-timing-function: steps(200, end);
+  	animation-fill-mode: forwards;
+
+}
+/* The typing effect */
+@keyframes typing {
+	from { width: 0 }
+	to { width: 100% }
+  }
+
+.card1:hover,.card3:hover {
+	box-shadow: 0 0 30px #00c472, 0 0 30px #00c48c, 0 0 30px #00c48c;
+	cursor: pointer;
+}
+.container {
+	width:1400px;
+	min-height: 90vh;
+	border-radius: 15px;
+	box-shadow: 0px 0px 30px rgb(3, 3, 3);
+	flex-wrap: wrap;
+  	justify-content: space-between;	
+	background-image: url(../../assets/image.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.main-container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 90vh;
+}
+#icon{
+    float:left;
+	cursor: pointer;
+    animation: rotate 4s linear infinite;
+    transform-style: preserve-3d;
+	margin-top: 2%;
+}
+@keyframes rotate {
+    0% {
+      transform: rotateX(0deg) rotateY(0deg);
+    }
+    50% {
+      transform: rotateX(0deg) rotateY(0deg);
+    }
+    100% {
+      transform: rotateX(0deg) rotateY(360deg);
+    }
+  }
