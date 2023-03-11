@@ -1,0 +1,3 @@
+[submodule "stockonix"]
+	path = stockonix
+	url = https://github.com/sideHustle101/stockonix
