@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/stockonix/static/css/main.f1551057.css",
+    "main.js": "/stockonix/static/js/main.9335e23b.js",
+    "static/media/image.png": "/stockonix/static/media/image.2bd3abbec4135ca6f200.png",
+    "index.html": "/stockonix/index.html",
+    "main.f1551057.css.map": "/stockonix/static/css/main.f1551057.css.map",
+    "main.9335e23b.js.map": "/stockonix/static/js/main.9335e23b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1551057.css",
+    "static/js/main.9335e23b.js"
+  ]
+}
