@@ -1,70 +1,30 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### `Project Detail'`
 
-## Available Scripts
+This software system is aim to provide a stock tracking application intended for use by stock
+market investors. The system is designed to optimize an investor's workflow by saving them
+valuable time by monitoring specific stocks and additional important metrics. It is accomplished
+by providing a dashboard that will allow them to monitor stocks in real-time. Without this type of
+application, the investor would be forced to individually monitor stocks and relevant metrics through their
+own chosen domain which would drastically increase the amount of time it takes to track their interested
+stocks. By allowing the investor's workflow, the system will come to meet the needs of the everyday
+investor through an easy-to-use application.
+Moreover, this application is designed to provide an interactive dashboard that allows the
+investor to add, remove, and edit up to 10 different stocks that will be represented as widgets. These
+widgets  showcases the stocks information, and when pressed will navigate the user to a secondary
+page. On this secondary page, additional stock metrics is displayed along with an interactive chart
+that will show the historical price data of the stock. This chart will provide an adjustable time interval in
+which it can be changed by client interaction.
 
-In the project directory, you can run:
+### `Language used`
 
-### `npm start`
+React.js, javaScript, CSS, jsx.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### `How to start`
+Download the file and set the directory of terminal to where the project is saved.
+user can achieve this by using cd command in thier terminal or on IDE's terminal.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+After the directory is set user can type npm start command to run the program.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### `Images of program but it doesnot show animation used in the program.`
+<img width="1436" alt="Screen Shot 2023-04-05 at 2 58 03 PM" src="https://user-images.githubusercontent.com/73970332/230221084-3f541320-5630-429c-86d8-c0583841e5f5.png">
