@@ -27,4 +27,9 @@ user can achieve this by using cd command in thier terminal or on IDE's terminal
 After the directory is set user can type npm start command to run the program.
 
 ### `Images of program but it doesnot show animation used in the program.`
-<img width="1436" alt="Screen Shot 2023-04-05 at 2 58 03 PM" src="https://user-images.githubusercontent.com/73970332/230221084-3f541320-5630-429c-86d8-c0583841e5f5.png">
+
+### `first page where you can add upto 10 stock and it will be saved.`
+![Screen Shot 2023-05-02 at 3 26 21 PM](https://user-images.githubusercontent.com/73970332/235799206-2ca21a15-4a1b-4df8-b69d-24a280c81adf.png)
+
+### `Second page after you click on the graph icon.`
+![Screen Shot 2023-05-02 at 3 26 43 PM](https://user-images.githubusercontent.com/73970332/235799251-54f303c1-739c-4ab4-b4fb-fabd57b3c67e.png)
